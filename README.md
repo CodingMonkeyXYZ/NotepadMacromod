@@ -1,2 +1,4 @@
 # NotepadMacromod
-Macromod Theme for Notepad++
+Macromod syntax highlighting for Notepad++
+
+To install, place userDefineLang.xml in %appData%\Notepad++
